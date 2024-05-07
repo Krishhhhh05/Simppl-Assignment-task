@@ -1,0 +1,4 @@
+pandas==2.2.2
+Requests==2.31.0
+selenium==4.20.0
+snscrape==0.7.0.20230622
